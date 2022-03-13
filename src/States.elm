@@ -102,7 +102,7 @@ jupiter : SolarBody
 jupiter =
     { name = "Jupiter"
     , diameter = 142984
-    , distanceFromSun = 778600000
+    , distanceFromSun = 2500000
     , colour = "orange"
     }
 
